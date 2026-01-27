@@ -1,0 +1,17 @@
+Name,Age (years),Breed,Color,Size,Weight (kg),isVaccinated
+Bella,3,Labrador,Yellow,Medium,30,0
+Max,5,German Shepherd,Black,Large,40,1
+Charlie,2,,Brown,Small,10,1
+Daisy,1,Bulldog,White,Medium,25,1
+Daisy,1,Bulldog,White,Medium,25,1
+Milo,7,Cocker Spaniel,Black,Small,12,0
+Snoopy,3,Maine Coon,Tabby,Large,10,0
+Ginger,4,Domestic Shorthair,Orange,Medium,5,0
+Scooby,1,French Bulldog,Fawn,Small,12,0
+Doo,2,,Red,Small,7,0
+Scout,8,Border Collie,Tri-color,Medium,20,
+Dolly,2,Pomeranian,Cream,Small,3,1
+Coco,6,Chihuahua,Brown,Small,2.5,1
+Ruby,4,Shih Tzu,White,Small,6,
+Bloo,9,,Blue,Large,70,1
+Mojo,1,Australian Shepherd,Merle,Medium,22,
